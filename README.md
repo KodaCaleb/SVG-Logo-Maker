@@ -9,7 +9,7 @@ To install this application, clone the repo and run `npm install` in the termina
 ## Usage
 To use this application, run `node index.js` in the terminal and follow the prompts. Here is a video and screenshot of the application in use.
 
-![Screenshot](./Assets/SVG_Gen_SC.png)
+![Screenshot](/Assets/SVG%20Gen%20SC.png)
 
 link to video: https://drive.google.com/file/d/1RZoA55BBfC1_-cV0vfv-fH-EMgtLbZ6s/view
 
